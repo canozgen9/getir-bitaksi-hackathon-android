@@ -1,0 +1,1 @@
+Getir Hackathon'una başvuru sırasında gerekli olan görev için geliştirilmiş uygulamadır.
