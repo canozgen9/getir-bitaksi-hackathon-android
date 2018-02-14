@@ -3,9 +3,7 @@ package com.canberkdurmus.getirhackathon;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-/**
- * Created by canberkdurmus on 13.02.2018.
- */
+
 
 public class Record {
     String id;

@@ -17,9 +17,6 @@ import java.util.List;
 import java.util.Locale;
 import java.util.TimeZone;
 
-/**
- * Created by canberkdurmus on 13.02.2018.
- */
 
 public class ListAdapter extends ArrayAdapter<Record> {
     private Context context;
